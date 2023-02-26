@@ -38,7 +38,7 @@ AutosRUs is creating a new Mechacar that is suffering from production troubles. 
 
 ![t test lot 3](https://user-images.githubusercontent.com/116690861/221419952-1bbb934d-d18f-4cba-9fa9-479533122433.png)
 
-- he T-test for lot 3 tells us that the mean is statistically different from the population mean. With a p-value of 0.04168 ther is enough evidence to reject the null hypothesis.
+- The T-test for lot 3 tells us that the mean is statistically different from the population mean. With a p-value of 0.04168 ther is enough evidence to reject the null hypothesis.
 
 ## Study Design: MechCar vs Competition
 One factor that is going to determine the success of the MechaCar in the market is to determine if it is priced correctly according to its features. 
